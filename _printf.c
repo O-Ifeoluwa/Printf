@@ -40,7 +40,7 @@ int printIdentifiers(char next, va_list arg)
  * _printf - mimic printf from stdio
  * Description: produces output according to a format
  * write output to stdout, the standard output stream
- * @format: character string composed of zero or more directives
+ * @format: character string composed of zero or more directives.
  *
  * Return: the number of characters printed
  * (excluding the null byte used to end output to strings)
