@@ -23,7 +23,7 @@ return (printed);
 
 /**
  * print_oct - prints number in octal base.
- * @arg: list containing octal number to be printed
+ * @arg: list containing octal number to be printed.
  * Return: number of octals printed
  */
 
